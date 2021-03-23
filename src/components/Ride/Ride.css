@@ -1,0 +1,22 @@
+#card{
+    text-align: center;
+    height: 320px;
+    width: 300px;
+    background-color: rgba(25, 89, 110, 0.466);
+    border-radius: 5px;
+    color: white;
+    font-size:20px;
+    box-shadow: 2px 2px 11px black;
+
+}
+#teamBtn{
+    background-color:rgb(25, 89, 110);
+    color: black;
+    width: 200px;
+    border:  1px solid black;
+    font-weight: 700;
+}
+#card img{
+    height: 200px;
+    width: 280px;
+}

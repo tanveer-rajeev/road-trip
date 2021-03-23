@@ -1,0 +1,69 @@
+.inputStyle{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    align-items: center;
+    text-align: center;
+    background-color: #5a86de;
+    border-radius: 10px;
+}
+.mainDiv{
+    margin-top: 20px;
+    /*background-color: #61dafb;*/
+    height: fit-content;
+    background-position: center;
+    /*height: 600px;*/
+    padding-top: 10px;
+}
+.inputStyle input{
+    border-radius: 5px;
+    border: 1px solid deepskyblue;
+}
+.inputStyle button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100px;
+    border-radius: 5px;
+    border: none;
+    /*color: white;*/
+    /*background-color: orangered;*/
+}
+.input{
+    width: 150px;
+    text-align: center;
+    align-items: center;
+}
+.inputStyle button:hover{
+    color: white;
+    background-color: #be5f85;
+}
+.mapStyle{
+    align-items: center;
+    text-align: center;
+}
+.mapStyle iframe{
+    border-radius: 5px;
+    border: 1px solid #22adbf;
+    height: 150%;
+    width: 100%;
+}
+.destinationClass{
+    height: 30px;
+    width: 30px;
+    
+}
+
+.finalCardDetails{
+    background-color: rgb(39, 58, 56);
+    color: white;
+    
+    padding: 4px;
+}
+
+#list{
+    list-style:none;
+    font-size:39px;
+}
+
+.submitButton{
+    width: 150px;
+}
